@@ -4,7 +4,8 @@
   "description": "[Name pending] Forums - Open Source and Horizontally Scalable Discussion using Node.JS",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node src/index"
   },
   "repository": {
     "type": "git",
