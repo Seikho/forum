@@ -5,4 +5,5 @@
   "path": "src/typings",
   "bundle": "src/typings/tsd.d.ts",
   "installed": {}
+  }
 }
