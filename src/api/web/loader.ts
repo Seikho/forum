@@ -1,0 +1,1 @@
+import hapi = require("hapi");

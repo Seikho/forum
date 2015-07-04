@@ -9,9 +9,14 @@
         "./test/**/*.ts"
     ],
     "files": [
+        "./src/api/web/loader.ts",
         "./src/index.ts",
+        "./src/typings/bluebird/bluebird.d.ts",
         "./src/typings/chai/chai.d.ts",
         "./src/typings/hapi/hapi.d.ts",
-        "./src/typings/mocha/mocha.d.ts"
+        "./src/typings/knex/knex.d.ts",
+        "./src/typings/mocha/mocha.d.ts",
+        "./src/typings/node/node.d.ts",
+        "./src/typings/tsd.d.ts"
     ]
 }

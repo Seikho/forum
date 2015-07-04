@@ -24,9 +24,12 @@
   },
   "homepage": "https://github.com/seikho/forums#readme",
   "dependencies": {
+    "bluebird": "^2.9.32",
     "chai": "^3.0.0",
     "hapi": "^8.8.0",
     "knex": "^0.8.6",
+    "ls-config": "^0.2.2",
+    "ls-logger": "^0.1.3",
     "mocha": "^2.2.5"
   }
 }
