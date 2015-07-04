@@ -10,6 +10,7 @@
     ],
     "files": [
         "./src/api/web/loader.ts",
+        "./src/api/web/server.ts",
         "./src/index.ts",
         "./src/typings/bluebird/bluebird.d.ts",
         "./src/typings/chai/chai.d.ts",
