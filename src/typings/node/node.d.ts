@@ -29,6 +29,9 @@ declare function clearImmediate(immediateId: any): void;
 
 declare var require: {
     (id: string): any;
+    config(opts: any): void;
+    (ids: string[], callback?: (...args: any[]) => void): void;
+    
     resolve(id:string): string;
     cache: any;
     extensions: any;
