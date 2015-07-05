@@ -6,7 +6,8 @@
     },
     "filesGlob": [
         "./src/**/*.ts",
-        "./test/**/*.ts"
+        "./test/**/*.ts",
+        "./front/**/*.ts"
     ],
     "files": [
         "./src/api/web/loader.ts",
