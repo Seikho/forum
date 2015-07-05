@@ -19,6 +19,8 @@
         "./src/typings/knex/knex.d.ts",
         "./src/typings/mocha/mocha.d.ts",
         "./src/typings/node/node.d.ts",
-        "./src/typings/tsd.d.ts"
+        "./src/typings/tsd.d.ts",
+        "./front/scripts/config.ts",
+        "./front/scripts/init.ts"
     ]
 }
